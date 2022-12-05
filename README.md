@@ -12,7 +12,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/ifeanyi-valentine/polygon">
+  <a href="https://github.com/ifeanyi-valentine/polygon-hackathon">
     <img src="https://media.tenor.com/kTRUwJEYLu8AAAAC/polygon-matic.gif" alt="Logo" width="80" height="80">
   </a>
 
@@ -134,7 +134,7 @@ Type your domain name and mint it to the blockchain. Domains on the blockchain i
 - [ ] Write README 
     - [ ] Help with interaction
 
-See the [open issues](https://github.com/ifeanyi-valentine/polygon/issues) for a full list of proposed features (and known issues).
+See the [open issues](https://github.com/ifeanyi-valentine/polygon-hackathon/issues) for a full list of proposed features (and known issues).
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
@@ -172,7 +172,7 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 
 Ifeanyi Ugwu - [@twitter_handle](https://twitter.com/___ifeanyi___) - urielifeanyi@gmail.com
 
-Project Link: [https://github.com/ifeanyi-valentine/polygon](https://github.com/ifeanyi-valentine/polygon)
+Project Link: [https://github.com/ifeanyi-valentine/polygon-hackathon](https://github.com/ifeanyi-valentine/polygon-hackathon)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
