@@ -170,7 +170,7 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 <!-- CONTACT -->
 ## Contact
 
-Ifeanyi Ugwu - [@twitter_handle](https://twitter.com/___ifeanyi___) - urielifeanyi@gmail.com
+Ifeanyi Ugwu - [@___ifeanyi___](https://twitter.com/___ifeanyi___) - urielifeanyi@gmail.com
 
 Project Link: [https://github.com/ifeanyi-valentine/polygon-hackathon](https://github.com/ifeanyi-valentine/polygon-hackathon)
 
